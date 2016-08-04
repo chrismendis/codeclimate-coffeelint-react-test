@@ -1,0 +1,23 @@
+{
+  "name": "codeclimate-coffeelint-react-test",
+  "version": "0.0.1",
+  "description": "A minimal test case for testing Code Climate's coffeelint engine for React (CJSX) support.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismendis/codeclimate-coffeelint-react-test.git"
+  },
+  "keywords": [
+    "codeclimate",
+    "coffeelint"
+  ],
+  "author": "Chris Mendis <chris.mendis@gmail.com> (https://github.com/chrismendis)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismendis/codeclimate-coffeelint-react-test/issues"
+  },
+  "homepage": "https://github.com/chrismendis/codeclimate-coffeelint-react-test#readme"
+}
